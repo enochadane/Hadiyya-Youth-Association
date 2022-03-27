@@ -114,11 +114,6 @@
   ],
   "Team": [
     {
-      "img": "img/team/01.jpg",
-      "name": "Abraham Abebe Hirigo",
-      "job": "President"
-    },
-    {
       "img": "img/team/02.jpg",
       "name": "Kaleab Tadessa",
       "job": "Vice President"
@@ -132,6 +127,11 @@
       "img": "img/team/04.jpg",
       "name": "Zekareyas Erdolo",
       "job": "General Assembly Chair"
+    },
+    {
+      "img": "img/team/05.jpg",
+      "name": "Misgana Tsegaye",
+      "job": "Finance Head"
     }
   ],
   "Message": {
@@ -141,7 +141,7 @@
     "address": "Hossana, Hadiyya, Ethiopia ",
     "phone": "+251 91 560 0260 ",
     "email": "abrahama.abebe@aau.edu.et",
-    "facebook": "https://www.facebook.com/hadiya40youthassociation74empoweringalablity/?hc_ref=ARS1QS6YYxWGn8ZjHM53KqEDQ0rFavNsqjGfFMIL4_JuVyh-YUNDiF5IT6PUV7ykAXc&fref=nf&__xts__[0]=68.ARBNLSo-3kPmcEtJxwTkXUlKjWiJj26lJhBo6NXdR0geQ9me91zxFRC8i3FC3TnxUTYHLwYlrARBC4wdWBbYROBL0mKa5RHPw6x52SxM_DMGgi5f9b_BHTrJGhQoLnN1uqGRe4f7pkon_poXJWeOuGwthczDe1DVCPdWtG4utdqZUWNusQvg5fKZu36GcXRr0z4YguRQY0UxH2-S0mFIZ_k0vbcSxE2KJHfuMorUAZyrwWr6nka2CDluGgRmSX44yqg-aef3ciLAnHqisES0ujn2H4k-WI9NFRihQ77TfsXzUdfrdC7gEEWh-mQMy0NWwOGCVCHkjeSCFzVho1_gqnMf287NWtYZSikooQ5E91r4awhscCLrWZ32UkfJ2Yr-QRFixpUisEVbb3fnhc3PRhEwfTLq54_if1G0rUVJhFtFW41vfwbGPRARjd6C-snQX9CvAEbOl5Oad1V1ZgEsVBq1LeSTjAUUJvU4xjgN5QpMMnYZfuQnT_OANAU",
+    "facebook": "https://www.facebook.com/hadiya40youthassociation74empoweringalablity/",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
   },

@@ -9,6 +9,16 @@ export const Team = (props) => {
           </p>
         </div>
         <div id='row'>
+                  <div className='thumbnail'>
+                    {' '}
+                    <img src='/img/team/01.jpg' alt='...' className='team-img' />
+                    <div className='caption'>
+                      <h4>Abraham Abebe Hirigo</h4>
+                      <p>President</p>
+                    </div>
+                  </div>
+        </div>
+        <div id='row'>
           {props.data
             ? props.data.map((d, i) => (
                 <div key={`${d.name}-${i}`} className='col-md-3 col-sm-6 team'>
