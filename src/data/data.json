@@ -1,0 +1,170 @@
+{
+  "Header": {
+    "title": "Hadiyya Youth Association",
+    "paragraph": "Hadiyya Youth Association | HYA - lives to promote development initiatives through engaging in migration, health care, environment protection, civic rights, and employment opportunities."
+  },
+  "About": {
+    "paragraph": "Hadiya Youth Association/HYA is an indigenous Non-governmental association founded by vibrant Hadiya youths on august 04, 2020. To deliver its founded purpose, the association secured a federal license from Federal Democratic Republic of Ethiopia, Civil Society organizations authority with a certificate number 5035. The main purpose of HYA is to promote Hadiya youth’s participation in socio-cultural, economic, political and all rounded development agendas of Hadiya in particular and in the nation in general.",
+    "Why": [
+      "Teamwork",
+      "Stewardship",
+      "Honesty",
+      "Integrity"
+    ],
+    "Why2": [
+      "Compassion",
+      "Trustworthiness"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "View Photo",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "View Photo",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "View Photo",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "View Photo",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "View Photo",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "View Photo",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "View Photo",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    },
+    {
+      "title": "View Photo",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "View Photo",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-quote-left",
+      "name": "The MOTTO",
+      "text": "Build a better future for all."
+    },
+    {
+      "icon": "fa fa-eye",
+      "name": "VISION",
+      "text": "To see all rounded development through willingly participation of youth in development initiatives."
+    },
+    {
+      "icon": "fa fa-bullseye",
+      "name": "MISSION",
+      "text": "HYA lives to promote development initiatives through engaging in migration, health care, environment protection, civic rights, and employment opportunities."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Abraham Abebe Hirigo",
+      "job": "President"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Kaleab Tadessa",
+      "job": "Vice President"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Sisay Yohannes",
+      "job": "Secretory"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Zekareyas Erdolo",
+      "job": "General Assembly Chair"
+    }
+  ],
+  "Message": {
+    "paragraph":"Young people are on the frontlines of the struggle to maintain better life through building better future for all. In the light of this insight, Hadiya Youth Association | HYA is founded to be a charity organization visualizing taking part in respective community development. Any Association could be created by few visionary young people who belong to some specific populations groups. It is true that generations come and go. But the good work and organizations working for that good will continue to exist. HYA therefore, is a humble start to continue exit and crated to positively influence Hadiya youth to participate in development initiatives and civic rights issues so as to mutually benefit their selves and their respective community."
+  },
+  "Contact": {
+    "address": "Hossana, Hadiyya, Ethiopia ",
+    "phone": "+251 91 560 0260 ",
+    "email": "abrahama.abebe@aau.edu.et",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "The MOTTO",
+      "text": "Build a better future for all."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "VISION",
+      "text": "To see all rounded development through willingly participation of youth in development initiatives."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "MISSION",
+      "text": "HYA lives to promote development initiatives through engaging in migration, health care, environment protection, civic rights, and employment opportunities."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "CORE VALUES",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
